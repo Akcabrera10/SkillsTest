@@ -40,8 +40,7 @@ int main()
     cout << "Parents Bonds Co-Contribution: $" <<pbondsamount << endl;
     cout << "PROGRAM SUBMITTED BY ARVYN CABRERA FROM SECTION 1-13" << endl; 
     
-    // remove getch if opening on dev-c++
-    getch()
+    getch();
     return 0;
     
 }
